@@ -3,4 +3,6 @@ then you mkdir repotest
 next you go into repotest so you type cd repotest
 then you touch README.md
 then you cd touch README.md
-and then you c9 README.md to make a file   hhh
+and then you c9 README.md to make a file   
+my name is habibah
+i go to telecommunications 
